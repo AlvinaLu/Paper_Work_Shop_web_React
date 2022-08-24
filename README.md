@@ -6,8 +6,12 @@ Technologies:
 
 * React
 * Java
+* Kafka
+* Docker
 * Spring Boot
 * PostgreSQL
+
+Backend https://github.com/AlvinaLu/Paper_Work_Shop_web_React_backend
 
 <hr>
 <p align="center">
