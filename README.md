@@ -8,8 +8,13 @@ Technologies:
 * Java
 * Kafka
 * Docker
+* REST
+* Inteceptors for logging
+* Elasticsearch
 * Spring Boot
 * PostgreSQL
+
+
 
 Backend https://github.com/AlvinaLu/Paper_Work_Shop_web_React_backend
 
@@ -27,4 +32,6 @@ Testing Project https://github.com/AlvinaLu/Testing_Project_for_Paper_Work_Shop
 <p align="center">
   <img src="https://firebasestorage.googleapis.com/v0/b/messenger-api-6d6b5.appspot.com/o/images%2FScreenshot%20from%202022-08-24%2016-37-33.png?alt=media&token=75dcad39-cde8-4d56-8b18-b8395490850b" width="900" title="Orders">
 </p>
+
+
 
